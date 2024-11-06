@@ -1,11 +1,8 @@
 # British Airways Review Dashboard
-
-![british-airways plane](https://github.com/user-attachments/assets/0c04278c-d730-4387-9ecb-c8b0d0dc177a)
-
+![British Airways Dashboard](https://github.com/user-attachments/assets/b1aca793-cbed-4fbc-accc-359e94295fcb)
 ## Overview
 This project visualizes customer review data for British Airways using a Tableau dashboard. The dashboard explores key metrics such as customer satisfaction, sentiment, and service quality, providing insights to help identify improvement areas.
-![Uploading british-airways plane.jpeg…]()
-
+![british-airways plane](https://github.com/user-attachments/assets/0c04278c-d730-4387-9ecb-c8b0d0dc177a)
 ## Features
 - **Sentiment Analysis**: Visual representation of customer sentiment.
 - **Customer Satisfaction Metrics**: Dashboard includes various metrics like comfort, service, and value for money.
