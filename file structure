@@ -1,0 +1,12 @@
+british-airways-review-dashboard/
+├── data/                       # Folder for raw and processed data files
+│   ├── raw/                    # Original data files
+│   └── processed/              # Processed or cleaned data files
+├── dashboard/                  # Contains Tableau files and exported dashboard visuals
+│   ├── dashboard.twb           # Tableau workbook file
+│   └── snapshots/              # Exported dashboard images for preview
+├── scripts/                    # Folder for data preprocessing or analysis scripts
+│   └── data_cleaning.py        # Example script for data cleaning (if applicable)
+├── README.md                   # Project description and setup instructions
+├── LICENSE                     # License information
+└── .gitignore                  # Files and folders to ignore in Git
